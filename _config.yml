@@ -1,7 +1,7 @@
 locale: "en-US"
 title: "Yo, I'm Shreeda"
 title_separator: "-"
-description: &description "Yo Pikabhu!!! Haha you will be caught checking out my website!! Just slide down once"
+description: "Yo Pikabhu!!! Haha you will be caught checking out my website!! Just slide down once"
 url: https://memetics19.github.io/
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "memetics19/memetics19.github.io"
