@@ -19,7 +19,7 @@
 ### My Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=memetics19&show_icons=true&hide_border=true)
 
-## I WORK ON
+## I Work on
 
 <table>
   <tbody>
