@@ -13,7 +13,7 @@ baseurl:
 url:
 github_username:  Anacoder1
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 
 # Site Author
 author:
