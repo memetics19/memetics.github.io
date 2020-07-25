@@ -1,4 +1,4 @@
-<img align="right" alt="unwanted"  width="370px" src="https://github.com/memetics19/memetics19/blob/master/undraw_working_from_anywhere_ub67.svg" />
+
 
 ### Hi there 👋
 
