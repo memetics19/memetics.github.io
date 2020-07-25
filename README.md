@@ -87,4 +87,4 @@
 ## Organization 
 
 
-<img align="left" height = "54px" src= "https://media.glassdoor.com/sqll/3226439/astaqc-consulting-squarelogo-1582184753131.png">
+<img align="left" height = "32px" src= "https://media.glassdoor.com/sqll/3226439/astaqc-consulting-squarelogo-1582184753131.png">
