@@ -88,5 +88,4 @@
 
 ## Organization 
 
-<img align="left" height = "64px" src= "https://github.com/memetics19/memetics19/blob/master/index.jpg">
 <img align="left" height = "64px" src= "https://media.glassdoor.com/sqll/3226439/astaqc-consulting-squarelogo-1582184753131.png">
