@@ -75,15 +75,14 @@
 
  <a href="https://twitter.com/bhat_shreeda">
   <img align="left" alt="Shreeda's Twitter" width="27px" height="20px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
-
+</a><br>
 
 
 ## Haha, caught you 
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/memetics19/count.svg" />
-</p>
+</p><br>
 
 
 ## Organization 
